@@ -74,3 +74,8 @@ Thumbs.db
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+src/environments/environment.ts
+src/environments/environment.development.ts
+src/environments/environment.ci.ts
+src/environments/environment.prod.ts
